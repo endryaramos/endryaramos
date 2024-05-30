@@ -1,0 +1,4 @@
+- 👋 Olá, Meu nome é Endrya Ramos
+- Aqui estão algumas informações sobre minha formação
+- 👀 Sou Mestre em Biotecnologia,  Biomédica, Técnica em Vigilância em Saúde 
+- 💞️ Tenho grande interesse na área de Virologia e Bioinformatica
