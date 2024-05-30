@@ -3,7 +3,7 @@ Olá Meu nome é Endrya Ramos
 Tenho Mestrado em Biotecnologia, Graduação em Biomedicina e Técnico em Vigilância em Saúde...
 Atualmente, estou cursando Dourado em Biotecnologia com foco na linha de pesquisa Bitecnologia Molecular e Bioinformática aplicada á Genômica
 
-🧠 Estou aprendendo sobre 
+## 🧠 Estou aprendendo sobre 
 - GIT: Versionamento de código e colaboração em projetos.
 - GitHub: Explorando as funcionalidades do GitHub para compartilhar e colaborar em repositórios
 - AWS: Conhecendo os serviços da Amazon Web Services.
