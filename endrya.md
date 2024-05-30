@@ -11,7 +11,7 @@ Atualmente, estou cursando Dourado em Biotecnologia com foco na linha de pesquis
 - R: Explorando a linguagem de programação para análise de dados e estatísticas.
 
 
-👯‍♀️ colaboração e Interesses
+## 👯‍♀️ colaboração e Interesses
 Estou interessado em projetos relacionados à Virologia. Minha atuação envolve a caracterização de vírus conhecidos e novos, utilizando ferramentas de bioinformática. Alguns dos processos que realizo incluem:
 
 -Controle de Qualidade dos Dados de NGS: Garantindo a qualidade dos dados gerados por sequenciamento de próxima geração.
